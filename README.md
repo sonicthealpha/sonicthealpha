@@ -1,6 +1,6 @@
 ## Hi there 👋
-<h1 align="center">I'm [Maslah Moahmed Ali]</h1>
-<h3 align="center">["Full-Stack Developer" / "3D Designer and Game Designer" / "Junior DevOps Engineer"]</h3>
+<h1 align="center">I'm Maslah Moahmed Ali</h1>
+<h3 align="center">"Full-Stack Developer" / "3D Designer and Game Designer" / "Junior DevOps Engineer"</h3>
 
 ---
 

@@ -5,53 +5,36 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **[CURRENT PROJECT]**
-- 🌱 I'm currently learning **[TECH/SKILL YOU'RE LEARNING]**
-- 👯 I'm looking to collaborate on **[TYPE OF PROJECT]**
+- 🔭 I'm currently working on **Non-Discloser**
+- 🌱 I'm currently learning **3D Designing, DevOps Engineering, AI Engineering, Rust**
+- 👯 I'm looking to collaborate on **Health systems, FHIR**
 - 🤔 I'm looking for help with **[SOMETHING YOU'RE STUCK ON, OPTIONAL]**
 - 💬 Ask me about **[YOUR EXPERTISE, e.g. React, Python, DevOps]**
-- 📫 How to reach me: **[EMAIL ADDRESS]**
-- ⚡ Fun fact: **[ONE FUN/PERSONAL FACT]**
+- 📫 How to reach me: **foxdev35@gmail.com**
+- ⚡ Fun fact: **I can become fat or gain weight in a matter of minutes 😂**
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages:**
-`[LANGUAGE 1]` `[LANGUAGE 2]` `[LANGUAGE 3]`
+`Javascript` `Flutter` `Solidity` `Rust`
 
 **Frameworks & Tools:**
-`[FRAMEWORK/TOOL 1]` `[FRAMEWORK/TOOL 2]` `[FRAMEWORK/TOOL 3]`
+`React-Native/EXPO` `Nodejs` `Nextjs`
 
 **Databases:**
-`[DATABASE 1]` `[DATABASE 2]`
+`Postgres` `Mongodb`
 
----
-
-### 📌 Featured Projects
-
-#### [PROJECT 1 NAME]
-[ONE-SENTENCE DESCRIPTION OF WHAT IT DOES AND WHY IT'S INTERESTING]
-🔗 [LINK TO REPO OR LIVE DEMO]
-
-#### [PROJECT 2 NAME]
-[ONE-SENTENCE DESCRIPTION]
-🔗 [LINK TO REPO OR LIVE DEMO]
-
-#### [PROJECT 3 NAME]
-[ONE-SENTENCE DESCRIPTION]
-🔗 [LINK TO REPO OR LIVE DEMO]
-
----
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[sonicthealpha]&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-GITHUB-USERNAME]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[sonicthealpha]&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -67,4 +50,4 @@
 
 ---
 
-<p align="center"><i>[OPTIONAL CLOSING LINE — a quote, motto, or "Thanks for stopping by!"]</i></p>
+<p align="center"><i>Always smile cause it's Sunnah!😇</i></p>
